@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>ajaj-xiaoxioahei</title>
+  <title>愉悦身心 伽倍努力</title>
   
-  
+  <subtitle>愉悦身心 伽倍努力</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://ajaj-xiaoxiaohei.github.io/"/>
@@ -10,7 +10,7 @@
   <id>https://ajaj-xiaoxiaohei.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>小黑</name>
     
   </author>
   
