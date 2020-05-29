@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://ajaj-xiaoxiaohei.github.io/"/>
-  <updated>2020-05-26T16:02:01.978Z</updated>
+  <updated>2020-05-27T11:29:49.128Z</updated>
   <id>https://ajaj-xiaoxiaohei.github.io/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>软件测试技术笔记</title>
+    <link href="https://ajaj-xiaoxiaohei.github.io/2020/05/27/ruan-jian-ce-shi-ji-zhu-bi-ji/"/>
+    <id>https://ajaj-xiaoxiaohei.github.io/2020/05/27/ruan-jian-ce-shi-ji-zhu-bi-ji/</id>
+    <published>2020-05-27T02:33:47.000Z</published>
+    <updated>2020-05-27T11:29:49.128Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;script&gt;
+        document.querySelectorAll(&#39;.github-emoji&#39;)
+          .forEach(el =&gt; {
+            if (!el.dataset.src) { return; }
+       
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>瑜伽音乐推荐</title>
